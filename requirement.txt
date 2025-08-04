@@ -6,3 +6,4 @@ paho-mqtt
 plotly==5.18.0
 streamlit==1.32.0
 plotly==5.18.0
+--extra-index-url https://pypi.org/simple/
