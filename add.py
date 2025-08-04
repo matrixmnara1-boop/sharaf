@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import sqlite3
-import paho.mqtt.client as mqtt
 import json
 import os
 from datetime import datetime
