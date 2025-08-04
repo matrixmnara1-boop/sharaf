@@ -3,3 +3,5 @@ pandas
 plotly
 sqlalchemy
 paho-mqtt
+plotly==5.18.0
+streamlit==1.32.0
